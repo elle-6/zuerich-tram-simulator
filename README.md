@@ -1,4 +1,4 @@
-https://elle-6.github.io/zuerich-tram-simulator/
+https://elle-6.github.io/zuerich-tram-simulator/zuerich_tramnetz_live.html
 
 # Zürich Tramnetz Live - Realistische Simulation
 
